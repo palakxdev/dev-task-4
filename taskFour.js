@@ -1,4 +1,4 @@
-// Problem- 4:
+// Problem - 4:
 function oddFriend(friendsName) {
     for (i = 0; i < friendsName.length; i++) {
         var oddElement = friendsName[i].length % 2;

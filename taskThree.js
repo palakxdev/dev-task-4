@@ -1,4 +1,4 @@
-// Problem- 3:
+// Problem - 3:
 function picnicBudget(numberOfPeoples) {
     if (peoples >= 0 && peoples <= 100) {
         var total = 5000 * peoples;

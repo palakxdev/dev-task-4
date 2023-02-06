@@ -1,4 +1,4 @@
-// Problem- 2:
+// Problem - 2:
 function pandaCost(totalSingara, totalSamucha, totalJilapi) {
     const singaraPrice = 7;
     const samuchaPrice = 10;
